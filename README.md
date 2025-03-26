@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suslik2006&layout=compact&theme=vision-friendly-dark)
 ## Немного о себе:
-- Учусь в Заполярном Государственном Университете
+- Учусь в Заполярном Государственном Университете( меня зовут Суслик, такой вот fuck't)
 - Иногда играю в игры
 - Пока что на этом все
 
